@@ -1,2 +1,2 @@
-# Parallel-Project-Group-4-
+# Online News Popularity Prediction
 Online News Populairty Prediction
