@@ -23,6 +23,6 @@ https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
 ## Team Members
 - Arshak Nihal - EDA, Preprocessing setup
-- Layana - Outlier Handling
+- Layana - Outlier Handling, Decision Tree Regression :- Ecaluation metrics, Ensemble
 - Jyothish M - Correlation Heatmap, README
 - Sruthi G S - Data Split, Scaling, Correlation & Mutual Information
