@@ -22,7 +22,7 @@ https://archive.ics.uci.edu/dataset/332/online+news+popularity
 3. Run all cells in order from top to bottom.
 
 ## Team Members
-- Arshak Nihal - EDA, Preprocessing setup
+- Arshak Nihal - EDA, Preprocessing setup, KNN
 - Layana - Outlier Handling, Decision Tree Regression :- Ecaluation metrics, Ensemble
-- Jyothish M - Correlation Heatmap, README
-- Sruthi G S - Data Split, Scaling, Correlation & Mutual Information
+- Jyothish M - Correlation Heatmap, README, SVM
+- Sruthi G S - Data Split, Scaling, Correlation & Mutual Information, Random Forest
