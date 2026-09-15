@@ -4,7 +4,7 @@
 This project predicts the number of shares an online news article will get, using the UCI Online News Popularity dataset. The goal is to preprocess the data and prepare it for model building.
 
 ## Live Demo
-Check out the live interactive web application here:  
+Live interactive web application link :  
 **[Online News Popularity Predictor](https://online-news-popularity-prediction-hehhwnllhscydpkmarrdt5.streamlit.app)**
 
 ## Dataset Source
